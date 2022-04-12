@@ -4,7 +4,7 @@
   [https://mortgage-eliftech.netlify.app/](https://mortgage-eliftech.netlify.app/)
 
 - Репозиторій проекту:
-  [https://gitlab.com/maximusvin/spdu2021-frontend-fullname/-/tree/main/reactapp](https://gitlab.com/maximusvin/spdu2021-frontend-fullname/-/tree/main/reactapp)
+  [https://github.com/Maximusvin/mortgage-eliftech](https://github.com/Maximusvin/mortgage-eliftech)
 
 1. Використав семантичну верстку.
 2. Проект побудований на функціональному підході. Але застосував і класовий
