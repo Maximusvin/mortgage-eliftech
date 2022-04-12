@@ -1,0 +1,25 @@
+export const COLORS = {
+  white: '#fff',
+  black: '#000',
+  lightBlue: '#49A4E0',
+  darkRed: '#C74444',
+  green: '#6FCF97',
+  blue: '#49bce0',
+  darkBlue: '#42AED0',
+  shadowGrey: '#c1c1c1',
+  orange: '#F2994A',
+
+  grey: '#696969',
+  lightBlack: '#333',
+  liteGrey: '#717171',
+  lightGrey: '#E8E8E8',
+  lightestGrey: '#CBCACA',
+  darkGrey: '#a7a4a4',
+  greyLine: '#c4c4c4',
+  greyTranslucent: 'rgba(105, 105, 105, 0.8)',
+  disabledGrey: '#A6A6A6',
+
+  red: '#E04949',
+  red50: 'rgba(235, 87, 87, 0.5)',
+  red100: 'rgba(235, 87, 87, 1)',
+};

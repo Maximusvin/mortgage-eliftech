@@ -1,0 +1,14 @@
+{
+  "banks": [
+    {
+      "notes": "",
+      "loanTerm": 24,
+      "minPayment": 10000,
+      "maxLoan": 500000,
+      "interest": 7,
+      "name": "Test bank",
+      "id": "1",
+      "status": "created"
+    }
+  ]
+}

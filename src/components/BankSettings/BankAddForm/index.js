@@ -1,0 +1,1 @@
+export { BankAddForm } from './BankAddForm';

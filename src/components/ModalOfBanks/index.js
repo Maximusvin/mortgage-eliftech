@@ -1,0 +1,1 @@
+export { ModalOfBanks } from './ModalOfBanks';
