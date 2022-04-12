@@ -7,6 +7,7 @@ import SettingsIcon from '@material-ui/icons/Settings';
 import AccountBalanceWalletIcon from '@material-ui/icons/AccountBalanceWallet';
 import AccountBalanceIcon from '@material-ui/icons/AccountBalance';
 import PermContactCalendarIcon from '@material-ui/icons/PermContactCalendar';
+import { MdVideoLibrary } from 'react-icons/md';
 
 import { Modal } from '../../UI';
 import { Paragraph, Box, Title, MainButton } from 'UI/ui-kit';
@@ -52,6 +53,10 @@ export const AppBar = () => {
         <NavLink to="/contacts">
           <PermContactCalendarIcon />
           <LinkName>Contacts</LinkName>
+        </NavLink>
+        <NavLink to="/video">
+          <MdVideoLibrary />
+          <LinkName>Video</LinkName>
         </NavLink>
       </Navigation>
 

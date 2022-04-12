@@ -8,3 +8,4 @@ export { NotFoundPage } from './NotFoundPage';
 export { Skeleton } from './Skeleton';
 export { ModalOfBanks } from './ModalOfBanks';
 export { Dropdown } from './Dropdown';
+export { Video } from './Video';

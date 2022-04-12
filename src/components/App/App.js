@@ -6,6 +6,7 @@ import {
   CalculatorView,
   ContactsView,
   NotFoundView,
+  VideoView,
 } from 'views';
 import { AppBar, Footer } from 'components';
 
@@ -19,6 +20,7 @@ const App = () => {
         <Route path="/bank-settings" component={BankSettingsView} />
         <Route path="/calculator" component={CalculatorView} />
         <Route path="/contacts" component={ContactsView} />
+        <Route path="/video" component={VideoView} />
         <Route component={NotFoundView} />
       </Switch>
 
